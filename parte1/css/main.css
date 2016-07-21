@@ -1,0 +1,11 @@
+div {
+	background-color: yellow;
+	height: 70px;
+}
+.red {
+	background-color: red;
+	height: 70px;
+}
+p{
+	display: inline;
+}
