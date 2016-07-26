@@ -1,11 +1,15 @@
-div {
-	background-color: yellow;
-	height: 70px;
+.caja {	
+	height: 100px;
 }
+
 .red {
-	background-color: red;
-	height: 70px;
+	background: red;
 }
-p{
-	display: inline;
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
+	display: inline-block;
 }
